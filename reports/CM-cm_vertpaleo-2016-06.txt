@@ -1,0 +1,68 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 2444
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 1
+	Country: Portugal ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 2
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-21 ; Times: 17
+	Date: 2016-06-20 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "Coryphodon" ; Times: 1
+	Query: "Ursus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lapparentosaurus" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 1
+	Query: "canis lupus   " ; Times: 4
+	Query: "Zuniceratops" ; Times: 1
+	Query: "Titanoides" ; Times: 1
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666 Saurischia" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "bison bison   " ; Times: 9
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666" ; Times: 5
+	Query: "Barylambda" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "genus:bison" ; Times: 3
+	Query: "Diabloceratops" ; Times: 1
+	Query: "alces alces   " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1052 download events in this period)
+Total number of records downloaded: 1414
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666 Saurischia" ; Times: 1
+	Query: "erethizon" ; Times: 1
+
+
+End of report.
