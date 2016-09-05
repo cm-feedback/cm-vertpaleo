@@ -1,0 +1,145 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 697
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 17
+	Date: 2016-08-16 ; Times: 5
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-30 ; Times: 6
+	Date: 2016-08-31 ; Times: 3
+	Date: 2016-08-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Odontopteryx" ; Times: 1
+	Query: "Spilogale type:specimen stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Aepyornis" ; Times: 2
+	Query: "carpolestes" ; Times: 3
+	Query: "type:specimen class:Mammalia institutioncode:CM" ; Times: 1
+	Query: "melanerpes carolinus Virginia" ; Times: 1
+	Query: "Deinotherium" ; Times: 1
+	Query: "bisti" ; Times: 1
+	Query: "Cryptobranchus stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Bemalambda" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Virginia&#34; (Erethizon)" ; Times: 1
+	Query: "ectopistes migratorius virginia" ; Times: 1
+	Query: "Crenidens" ; Times: 3
+	Query: "Homo sapiens" ; Times: 3
+	Query: "Ouranosaurus" ; Times: 1
+	Query: "72619" ; Times: 1
+	Query: "&#34;vermivora chrysoptera&#34; stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "Dunkleosteus" ; Times: 2
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "reptilia bisti" ; Times: 3
+	Query: "melanerpes erythrocephalus virginia" ; Times: 1
+	Query: "Dicynodon" ; Times: 1
+	Query: "Sarcosuchus" ; Times: 1
+	Query: "Spinosaurus aegyptiacus" ; Times: 1
+	Query: "genus:onychomys fossil:1" ; Times: 1
+	Query: "Plateosaurus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Zapus hudsonius type:specimen stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "type:specimen class:mammalia institutioncode:CM" ; Times: 2
+	Query: "Thrinaxodon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 924 download events in this period)
+Total number of records downloaded: 6067
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 8
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 39
+	Country: Austria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-29 ; Times: 8
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 9
+	Date: 2016-08-24 ; Times: 6
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-09 ; Times: 2
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clark Mountain" ; Times: 2
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "genus:Equus fossil:1" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Virginia&#34; (Erethizon)" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "microtus montanus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "guanajuato" ; Times: 3
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+
+
+End of report.
