@@ -1,0 +1,133 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 1300
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: Unknown ; Times: 2
+	Country: Portugal ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 50
+	Date: 2016-09-11 ; Times: 2
+	Date: 2016-09-08 ; Times: 5
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-15 ; Times: 2
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-05 ; Times: 3
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:oreonetes institutioncode:CM fossil:1" ; Times: 1
+	Query: "genus:Oreonetes" ; Times: 1
+	Query: "genus:limnenetes institutioncode:CM" ; Times: 12
+	Query: "Spalax ehrenbergi" ; Times: 1
+	Query: "Chloephaga melanoptera 1" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "genus:Chelomophrynus institutioncode:CM" ; Times: 1
+	Query: "genus:bathygenys institutioncode:CM" ; Times: 1
+	Query: "type:specimen genus:oreonetes AND (pipestone) institutioncode:CM" ; Times: 1
+	Query: "hesperornithiform" ; Times: 1
+	Query: "specificepithet:ehrenbergi genus:Spalax" ; Times: 9
+	Query: "Opheodrys vernalis stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "specificepithet:frenata genus:mustela institutioncode:CM" ; Times: 1
+	Query: "collectioncode:vertpaleo institutioncode:CM" ; Times: 1
+	Query: "genus:oreonetes institutioncode:CM" ; Times: 13
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666" ; Times: 1
+	Query: "Cercopithecidae type:specimen fossil:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "Bonasa umbellus 1" ; Times: 1
+	Query: "type:specimen genus:oreonetes institutioncode:CM" ; Times: 2
+	Query: "Oreonetes anceps" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: "genus:Oreonetes institutioncode:CM" ; Times: 2
+	Query: "type:specimen genus:oreonetes AND (mccarty) institutioncode:CM" ; Times: 1
+	Query: "Myospalax myospalax" ; Times: 1
+	Query: "genus:&#34;?biretia&#34;" ; Times: 1
+	Query: "mccarty genus:oreonetes institutioncode:CM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Anas bahamensis 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 167 (out of 811 download events in this period)
+Total number of records downloaded: 6508
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 99
+	Country: Mexico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 60
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-12 ; Times: 7
+	Date: 2016-09-11 ; Times: 7
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 17
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 5
+	Date: 2016-09-09 ; Times: 4
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-06 ; Times: 9
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-01 ; Times: 15
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 15
+	Date: 2016-09-05 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "mustela nivalis" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "rana pipiens" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "dermoptera" ; Times: 2
+
+
+End of report.
