@@ -1,0 +1,152 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 3206
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 12
+	Country: United States ; Times: 82
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Bolivia ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 6
+	Date: 2018-01-18 ; Times: 4
+	Date: 2018-01-08 ; Times: 11
+	Date: 2018-01-09 ; Times: 18
+	Date: 2018-01-02 ; Times: 5
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-15 ; Times: 6
+	Date: 2018-01-21 ; Times: 3
+	Date: 2018-01-22 ; Times: 9
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-16 ; Times: 5
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-17 ; Times: 4
+	Date: 2018-01-14 ; Times: 5
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-31 ; Times: 5
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-23 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Arpadosaurus institutioncode:CM" ; Times: 1
+	Query: "genus:Proxestops" ; Times: 2
+	Query: "specificepithet:CATENATUS institutioncode:CM" ; Times: 3
+	Query: "genus:Melanosaurus institutioncode:CM" ; Times: 1
+	Query: "genus:Paraglyptosaurus institutioncode:CM" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 4
+	Query: "genus:Glyptosaurus institutioncode:CM" ; Times: 1
+	Query: "genus:Eoglyptosaurus institutioncode:CM" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "stateprovince:&#34;virginia&#34; Crotalus horridus" ; Times: 1
+	Query: "fraudator" ; Times: 1
+	Query: "stateprovince:&#34;Virginia&#34; Opheodrys vernalis" ; Times: 1
+	Query: "suid" ; Times: 1
+	Query: "institutioncode:CM Myotis sp" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "genus:Helodermoides institutioncode:CM" ; Times: 1
+	Query: "class:mammalia AND (paleo) institutioncode:CM" ; Times: 1
+	Query: "genus:Triceratops" ; Times: 4
+	Query: "genus:Macaca order:Primates institutioncode:CM" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "genus:Paraglyptosaurus" ; Times: 4
+	Query: "Dinictis" ; Times: 1
+	Query: "Bufo striatus mappable:0" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 4
+	Query: "Equus caballus" ; Times: 3
+	Query: "specificepithet:tigrinum genus:ambystoma stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "genus:Xestops" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Glyptosaurus" ; Times: 4
+	Query: "class:mammalia institutioncode:CM isfossil:1" ; Times: 1
+	Query: "genus:Eoglyptosaurus" ; Times: 2
+	Query: "Panthera tigris" ; Times: 3
+	Query: "genus:Xestops institutioncode:CM" ; Times: 1
+	Query: "didelphis virginianus" ; Times: 1
+	Query: "genus:Helodermoides" ; Times: 3
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "Dermoptera" ; Times: 1
+	Query: "archaeopteryx" ; Times: 2
+	Query: "genus:Arpadosaurus" ; Times: 2
+	Query: "fieldnumber:323 institutioncode:CM" ; Times: 1
+	Query: "family:Phyllostomidae institutioncode:CM" ; Times: 1
+	Query: "genus:Melanosaurus" ; Times: 2
+	Query: "plethodontid" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 4
+	Query: "class:mammalia institutioncode:CM" ; Times: 11
+	Query: "genus:Proxestops institutioncode:CM" ; Times: 1
+	Query: "class:mammalia institutioncode:CM hastypestatus:1" ; Times: 4
+	Query: "order:Primates institutioncode:CM" ; Times: 1
+	Query: "institutioncode:CM Myotis" ; Times: 4
+	Query: "Mustela nivalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1398 download events in this period)
+Total number of records downloaded: 1998
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 7
+	Country: United States ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 8
+	Date: 2018-01-25 ; Times: 11
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-23 ; Times: 6
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "sorex arcticus vntype:specimen country:&#34;Canada&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
