@@ -1,0 +1,122 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 526
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 2
+	Country: Peru ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 9
+	Date: 2017-12-03 ; Times: 3
+	Date: 2017-12-27 ; Times: 2
+	Date: 2017-12-26 ; Times: 7
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-16 ; Times: 2
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-06 ; Times: 11
+	Date: 2017-12-11 ; Times: 6
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-08 ; Times: 4
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:088323" ; Times: 1
+	Query: "apataelurus" ; Times: 1
+	Query: "Suid" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "specificepithet:insculpta stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "sorex dispar" ; Times: 1
+	Query: "machaeroides" ; Times: 1
+	Query: "specificepithet:aestivus stateprovince:&#34;pennsylvania&#34;" ; Times: 4
+	Query: "Aegolius acadicus stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "suid" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 3
+	Query: "sorex gaspensis" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "catalognumber:086867" ; Times: 1
+	Query: "Taxidea stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "panthera onca peru" ; Times: 7
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666" ; Times: 1
+	Query: "vntype:specimen specificepithet:fumeus genus:sorex institutioncode:CM" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "class:aves stateprovince:&#34;nebraska&#34; institutioncode:CM" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "panthera tigris" ; Times: 2
+	Query: "Elephant tusk" ; Times: 2
+	Query: "Vermivora chrysoptera stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Necturus Tennessee" ; Times: 10
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "catalognumber:088316" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 674 download events in this period)
+Total number of records downloaded: 3561
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Peru ; Times: 2
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-18 ; Times: 3
+	Date: 2017-12-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "specificepithet:clamitans genus:Rana stateprovince:&#34;Pennsylvania&#34; institutioncode:CM" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 2
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "panthera onca peru" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "eumeces laticeps" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Vermivora chrysoptera stateprovince:&#34;virginia&#34;" ; Times: 1
+
+
+End of report.
