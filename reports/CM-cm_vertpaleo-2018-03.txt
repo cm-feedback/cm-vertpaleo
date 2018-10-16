@@ -1,0 +1,257 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 701
+Number of records retrieved in searches: 17845
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 683
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-06 ; Times: 12
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-13 ; Times: 5
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-27 ; Times: 94
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 9
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-18 ; Times: 3
+	Date: 2018-03-01 ; Times: 22
+	Date: 2018-03-02 ; Times: 87
+	Date: 2018-03-03 ; Times: 9
+	Date: 2018-03-05 ; Times: 91
+	Date: 2018-03-28 ; Times: 31
+	Date: 2018-03-29 ; Times: 32
+	Date: 2018-03-26 ; Times: 126
+	Date: 2018-03-09 ; Times: 9
+	Date: 2018-03-24 ; Times: 4
+	Date: 2018-03-25 ; Times: 18
+	Date: 2018-03-22 ; Times: 4
+	Date: 2018-03-23 ; Times: 23
+	Date: 2018-03-20 ; Times: 86
+	Date: 2018-03-21 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Wyonycteris" ; Times: 3
+	Query: "Diprotodon" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 5
+	Query: "genus:Paromomys specificepithet:maturus" ; Times: 6
+	Query: "specificepithet:latrans genus:Canis institutioncode:CM" ; Times: 1
+	Query: "genus:Hesperornis specificepithet:regalis" ; Times: 6
+	Query: "genus:Pronothodectes specificepithet:matthewi" ; Times: 7
+	Query: "genus:Peradectes specificepithet:protinnominatus" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Tennessee&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Teilhardina specificepithet:americana" ; Times: 11
+	Query: "genus:Elaphe specificepithet:vulpina" ; Times: 2
+	Query: "genus:Ourayia specificepithet:uintensis" ; Times: 7
+	Query: "genus:Megaladapis specificepithet:madagascariensis" ; Times: 12
+	Query: "specificepithet:lupus genus:Canis institutioncode:CM" ; Times: 1
+	Query: "genus:Paramys specificepithet:taurus" ; Times: 8
+	Query: "genus:Erinaceomorpha" ; Times: 3
+	Query: "genus:Paramys specificepithet:copei" ; Times: 8
+	Query: "genus:Phenacolemur specificepithet:jepseni" ; Times: 5
+	Query: "specificepithet:nigripes genus:mustela year&gt;=1900 year&lt;=1940" ; Times: 1
+	Query: "genus:Sespedectes specificepithet:singularis" ; Times: 5
+	Query: "genus:Plesiadapis specificepithet:rex" ; Times: 6
+	Query: "genus:Homo specificepithet:erectus" ; Times: 9
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 6
+	Query: "genus:Plagiolophus specificepithet:annectens" ; Times: 6
+	Query: "genus:Didelphodus specificepithet:absarokae" ; Times: 6
+	Query: "genus:Clidastes specificepithet:propython" ; Times: 7
+	Query: "genus:Palaeotherium specificepithet:magnum" ; Times: 6
+	Query: "genus:Nekrolagus specificepithet:progressus" ; Times: 5
+	Query: "genus:Cantius specificepithet:torresi" ; Times: 7
+	Query: "genus:Notharctus specificepithet:pugnax" ; Times: 9
+	Query: "genus:Ignacius specificepithet:fremontensis" ; Times: 5
+	Query: "genus:Sivapithecus specificepithet:indicus" ; Times: 6
+	Query: "genus:Proconsul specificepithet:africanus" ; Times: 9
+	Query: "genus:Nannodectes specificepithet:intermedius" ; Times: 5
+	Query: "genus:Phenacolemur specificepithet:simonsi" ; Times: 5
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 8
+	Query: "genus:Machairodus" ; Times: 3
+	Query: "genus:Pelycodus specificepithet:jarrovii" ; Times: 6
+	Query: "genus:Tetonius specificepithet:matthewi" ; Times: 5
+	Query: "genus:Palaeotherium specificepithet:curtum" ; Times: 6
+	Query: "genus:Washakius specificepithet:izetti" ; Times: 5
+	Query: "specificepithet:rufus genus:Canis isfossil:1" ; Times: 1
+	Query: "genus:Nannodectes specificepithet:gazini" ; Times: 5
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "genus:Hyrachyus specificepithet:modestus" ; Times: 5
+	Query: "genus:Argillochelys" ; Times: 3
+	Query: "genus:Plesiadapis specificepithet:cookei" ; Times: 6
+	Query: "genus:Dicynodon" ; Times: 3
+	Query: "West Virginia Crotalus" ; Times: 1
+	Query: "genus:Acritoparamys specificepithet:atavus" ; Times: 5
+	Query: "genus:Aepyornis institutioncode:CM" ; Times: 6
+	Query: "specificepithet:nigripes genus:mustela year&gt;=1900" ; Times: 1
+	Query: "genus:Gomphotherium" ; Times: 3
+	Query: "specificepithet:latrans genus:canis country:&#34;united states&#34; year &gt;= 1970 year &lt;= 1995 basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Hemiacodon specificepithet:gracilis" ; Times: 7
+	Query: "genus:Tetonius specificepithet:homunculus" ; Times: 7
+	Query: "genus:Homotherium specificepithet:serum" ; Times: 5
+	Query: "genus:Gallus specificepithet:gallus" ; Times: 3
+	Query: "genus:Omomys specificepithet:carteri" ; Times: 8
+	Query: "genus:Cantius specificepithet:frugivorus" ; Times: 7
+	Query: "genus:Stegoceras specificepithet:validum" ; Times: 5
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 2
+	Query: "genus:Alagomys specificepithet:russelli" ; Times: 9
+	Query: "genus:Acritoparamys specificepithet:atwateri" ; Times: 5
+	Query: "genus:Smilodectes specificepithet:mcgrewi" ; Times: 5
+	Query: "genus:Macrocranion specificepithet:nitens" ; Times: 5
+	Query: "Crotalus horridus stateprovince:&#34;West Virginia&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:dubius" ; Times: 6
+	Query: "genus:Ischyromys specificepithet:typus" ; Times: 5
+	Query: "genus:Paramys specificepithet:delicatus" ; Times: 2
+	Query: "genus:Promerycochoerus stateprovince:&#34;Wyoming&#34; institutioncode:CM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:churchilli" ; Times: 6
+	Query: "074492" ; Times: 3
+	Query: "genus:Mimoperadectes  specificepithet:labrus" ; Times: 3
+	Query: "genus:Merycoidodon specificepithet:culbertsoni" ; Times: 5
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "genus:Edestus specificepithet:heinrichi" ; Times: 5
+	Query: "genus:Phenacolemur specificepithet:praecox" ; Times: 5
+	Query: "genus:Arctodontomys specificepithet:sp. nov." ; Times: 7
+	Query: "genus:Talpavoides specificepithet:dartoni" ; Times: 5
+	Query: "Crotalus horridus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "074002" ; Times: 1
+	Query: "genus:Ptilodus specificepithet:kummae" ; Times: 5
+	Query: "genus:Smilodon specificepithet:fatalis" ; Times: 5
+	Query: "genus:Ignacius specificepithet:graybullianus" ; Times: 5
+	Query: "genus:Smilodectes specificepithet:gracilis" ; Times: 7
+	Query: "genus:Palaeolagus specificepithet:haydeni" ; Times: 5
+	Query: "genus:Karanisia specificepithet:arenula" ; Times: 10
+	Query: "genus:Xiphactinus specificepithet:audax" ; Times: 6
+	Query: "genus:promerycochoerus stateprovince:&#34;wyoming&#34; institutioncode:CM basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Carcharopsis specificepithet:wortheni" ; Times: 5
+	Query: "genus:Pondaungia" ; Times: 3
+	Query: "genus:Mesohippus specificepithet:bairdi" ; Times: 6
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "genus:Phenacolemur specificepithet:pagei" ; Times: 5
+	Query: "specificepithet:latrans genus:canis country:&#34;united states&#34; year &gt;= 1970 year &lt;= 1995 basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Plagioctenoides specificepithet:microlestes" ; Times: 9
+	Query: "genus:Ignacius specificepithet:frugivorus" ; Times: 5
+	Query: "074032" ; Times: 1
+	Query: "aepyornis" ; Times: 9
+	Query: "074034" ; Times: 2
+	Query: "seymouria" ; Times: 2
+	Query: "genus:Titanis specificepithet:walleri" ; Times: 5
+	Query: "Spilogale putorius putorius virginia" ; Times: 2
+	Query: "genus:Absarokius specificepithet:abbotti" ; Times: 6
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 2
+	Query: "genus:Colpocherus" ; Times: 1
+	Query: "genus:Notharctus specificepithet:robustior" ; Times: 8
+	Query: "genus:Copemys specificepithet:lindsayi" ; Times: 5
+	Query: "genus:Hesperocyon specificepithet:gregarius" ; Times: 5
+	Query: "genus:Mimoperadectes specificepithet:labrus" ; Times: 2
+	Query: "genus:Plagioctenodon specificepithet:krausae" ; Times: 5
+	Query: "genus:Carpolestes specificepithet:nigridens" ; Times: 9
+	Query: "genus:Mahgarita specificepithet:stevensi" ; Times: 5
+	Query: "genus:Pteromys" ; Times: 3
+	Query: "genus:Palaeictops specificepithet:bicuspis" ; Times: 5
+	Query: "genus:Aphronorus specificepithet:orieli" ; Times: 5
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 2
+	Query: "latimeria" ; Times: 1
+	Query: "genus:Labidolemur specificepithet:kayi" ; Times: 5
+	Query: "genus:Palaeosinopa specificepithet:veterrima" ; Times: 5
+	Query: "genus:Brachyphylla specificepithet:nana" ; Times: 2
+	Query: "013758" ; Times: 1
+	Query: "genus:Notharctus specificepithet:tenebrosus" ; Times: 10
+	Query: "genus:Carpolestes specificepithet:dubius" ; Times: 9
+	Query: "genus:Phenacolemur specificepithet:citatus" ; Times: 5
+	Query: "stateprovince:&#34;wyoming&#34; institutioncode:CM basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:fodinatus" ; Times: 6
+	Query: "Panthera tigris " ; Times: 1
+	Query: "Megalodon south carolina" ; Times: 1
+	Query: "scientificname:mustela nigripes" ; Times: 2
+	Query: "genus:Plesiadapis specificepithet:anceps" ; Times: 6
+	Query: "genus:Microsyops specificepithet:scottianus" ; Times: 5
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "(Carbon) AND (NOT PBDB) isfossil:1" ; Times: 1
+	Query: "genus:Shoshonius specificepithet:cooperi" ; Times: 8
+	Query: "genus:Adapis specificepithet:parisiensis" ; Times: 11
+	Query: "genus:Aepyornis" ; Times: 3
+	Query: "genus:Notharctus specificepithet:venticolus" ; Times: 2
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666" ; Times: 6
+	Query: "specificepithet:dispar genus:sorex" ; Times: 1
+	Query: "genus:Palaeictops specificepithet:sp." ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "genus:synaptomys stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "Crotalus horridus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Nannodectes specificepithet:simpsoni" ; Times: 5
+	Query: "genus:Notharctus  specificepithet:venticolus" ; Times: 4
+	Query: "genus:Biretia" ; Times: 1
+	Query: "chordate" ; Times: 1
+	Query: "genus:Daimonelix" ; Times: 4
+	Query: "genus:Arctodus specificepithet:simus" ; Times: 5
+	Query: "specificepithet:rufus genus:Canis institutioncode:CM" ; Times: 1
+	Query: "genus:Didelphodon specificepithet:vorax" ; Times: 5
+	Query: "074027" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "Tregomys" ; Times: 1
+	Query: "074024" ; Times: 1
+	Query: "genus:Neohipparion specificepithet:eurystyle" ; Times: 2
+	Query: "074021" ; Times: 1
+	Query: "genus:Paramys  specificepithet:delicatus" ; Times: 3
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "074029" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1284 download events in this period)
+Total number of records downloaded: 1913
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 2
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia country:&#34;Algeria&#34;" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:CM" ; Times: 2
+	Query: "preparations:nest" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Talpa" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "family:Bathyergidae isfossil:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 1
+	Query: "seymouria" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis isfossil:1" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "Bassariscus" ; Times: 1
+	Query: "order:Cingulata preparations:skull" ; Times: 1
+
+
+End of report.
