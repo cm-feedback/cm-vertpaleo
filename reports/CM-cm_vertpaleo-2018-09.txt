@@ -1,0 +1,110 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 740
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 21
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: China ; Times: 2
+	Country: Iceland ; Times: 3
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-30 ; Times: 4
+	Date: 2018-09-05 ; Times: 8
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-01 ; Times: 2
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-29 ; Times: 2
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "skeleton vntype:specimen genus:Etrumeus" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 1
+	Query: "anemone" ; Times: 1
+	Query: "genus: rhamphorhynchus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 2
+	Query: "genus:Sciuravus specificepithet:sp." ; Times: 1
+	Query: "alice Guilday" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "sarg" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "aepyornis" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 3
+	Query: "cemophora virginia" ; Times: 1
+	Query: "genus:machaeroides" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "isfossil:1 myodes gapperi" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 5
+	Query: "Ancistrodon" ; Times: 1
+	Query: "skeleton vntype:specimen genus:etrumeus" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 1
+	Query: "genus:Arctodontomys specificepithet:sp. nov." ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 846 download events in this period)
+Total number of records downloaded: 663
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Rhinocerotidae continent:North America isfossil:1" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+
+
+End of report.
