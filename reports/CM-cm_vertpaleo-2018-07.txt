@@ -1,0 +1,100 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 468
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 30
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 8
+	Date: 2018-07-10 ; Times: 3
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 10
+	Date: 2018-07-02 ; Times: 5
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-22 ; Times: 4
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Moropus" ; Times: 3
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:vulpes genus:Vulpes institutioncode:CM" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "javelina" ; Times: 1
+	Query: "genus:Scalopus stateprovince:Kentucky" ; Times: 1
+	Query: "Chloephaga melanoptera" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "elegantissimus" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 2
+	Query: "order:Rodentia preparations:vertebrae" ; Times: 2
+	Query: "cm 4597" ; Times: 1
+	Query: "ANSP 4865" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "dinornis" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "clemmys muhlenbergi maryland" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "genus:Parascalops stateprovince:&#34;West Virginia&#34;" ; Times: 3
+	Query: "specificepithet:mephitis genus:Mephitis stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "genus:Parascalops stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "Canis latrans institutioncode:CM" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 977 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes institutioncode:CM" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "Canis latrans institutioncode:CM" ; Times: 2
+
+
+End of report.
