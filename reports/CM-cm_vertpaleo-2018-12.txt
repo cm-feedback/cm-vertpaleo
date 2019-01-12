@@ -1,0 +1,120 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 805
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 5
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 3
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 6
+	Date: 2018-12-15 ; Times: 3
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 7
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-02 ; Times: 10
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-13 ; Times: 2
+	Date: 2018-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "recordedby:Baird preparations:skull" ; Times: 1
+	Query: "Hypertragulidae north america" ; Times: 9
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "tigrinum maryland" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Nanotragulus north america" ; Times: 2
+	Query: "adapis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "Canis rufus" ; Times: 11
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "presbyornis institutioncode:CM" ; Times: 1
+	Query: "lepidotes laevis" ; Times: 2
+	Query: "Hypertragulidae" ; Times: 1
+	Query: "felis onca" ; Times: 1
+	Query: "bison bison mexico genus:bison family:bovidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "074032" ; Times: 1
+	Query: "074024" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 809 download events in this period)
+Total number of records downloaded: 1615
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 13
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-09 ; Times: 8
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 6
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-17 ; Times: 3
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+
+
+End of report.
