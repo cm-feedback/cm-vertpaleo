@@ -1,0 +1,182 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 168
+Number of records retrieved in searches: 2195
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 156
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 20
+	Date: 2019-01-23 ; Times: 28
+	Date: 2019-01-18 ; Times: 6
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 12
+	Date: 2019-01-15 ; Times: 12
+	Date: 2019-01-30 ; Times: 3
+	Date: 2019-01-17 ; Times: 12
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-11 ; Times: 8
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 4
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-09 ; Times: 15
+	Date: 2019-01-22 ; Times: 9
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-27 ; Times: 3
+	Date: 2019-01-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:hesperosuchus collectioncode:VertPaleo institutioncode:CM" ; Times: 1
+	Query: "specificepithet:bauri genus:Coelophysis" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "ornithomimidae" ; Times: 1
+	Query: "collectioncode:VertPaleo institutioncode:CM" ; Times: 1
+	Query: "collectioncode:VertPaleo institutioncode:CM crocodylia Triassic" ; Times: 1
+	Query: "rhineura" ; Times: 1
+	Query: "coelurosauria" ; Times: 1
+	Query: "specificepithet:elegans genus:Spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 5
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Colorado&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "089130" ; Times: 2
+	Query: "stateprovince:&#34;virginia&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 2
+	Query: "stateprovince:&#34;kentucky&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "Chloephaga melanoptera" ; Times: 1
+	Query: "specificepithet:longipes genus:Compsognathus" ; Times: 9
+	Query: "institutioncode:CM crocodylomorpha" ; Times: 2
+	Query: "collectioncode:VertPaleo institutioncode:CM crocodylia" ; Times: 3
+	Query: "collectioncode:VertPaleo institutioncode:CM crocodylia jurassic" ; Times: 1
+	Query: "genus:Coelophysis" ; Times: 1
+	Query: "family:Sphenosuchidae institutioncode:CM" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "order:crocodylomorpha institutioncode:CM" ; Times: 4
+	Query: "Caenagnathidae" ; Times: 1
+	Query: "056003" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;united&#34;" ; Times: 1
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "institutioncode:CM hesperosuchus" ; Times: 2
+	Query: "Panthera onca" ; Times: 53
+	Query: "xenicus" ; Times: 1
+	Query: "CM 9029" ; Times: 1
+	Query: "genus:Alces continent:North America isfossil:1" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "institutioncode:CM Crocodylia" ; Times: 1
+	Query: "institutioncode:CM crocodile" ; Times: 3
+	Query: "Canis rufus" ; Times: 1
+	Query: "preparations:egg institutioncode:CM" ; Times: 1
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666" ; Times: 5
+	Query: "stateprovince:&#34;west virginia&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "family:ciconiidae class:aves institutioncode:CM" ; Times: 1
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:CM" ; Times: 2
+	Query: "CM-9029" ; Times: 1
+	Query: "Cryptobranchus west virginia" ; Times: 2
+	Query: "specificepithet:lithographica genus:Archaeopteryx isfossil:1" ; Times: 1
+	Query: "Herrerasaurus isfossil:1" ; Times: 2
+	Query: "order:crocodylomorpha" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "genus:mustela stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "class:aves preparations:egg institutioncode:CM" ; Times: 1
+	Query: "virginia ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 17
+	Query: "genus:hesperosuchus institutioncode:CM" ; Times: 4
+	Query: "Euceratherium" ; Times: 1
+	Query: "014525" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 962 download events in this period)
+Total number of records downloaded: 9295
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 100
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 23
+	Date: 2019-01-28 ; Times: 9
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-17 ; Times: 5
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-31 ; Times: 22
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-30 ; Times: 14
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;kentucky&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:americanus genus:Bufo stateprovince:&#34;Pennsylvania&#34; institutioncode:CM" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "genus:Alces continent:North America isfossil:1" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "vntype:specimen family:Carettochelyidae" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "stateprovince:&#34;virginia&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "cynocephalidae" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:elegans genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "dermoptera" ; Times: 35
+
+
+End of report.
