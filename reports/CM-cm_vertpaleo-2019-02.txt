@@ -1,0 +1,126 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 522
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 14
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-13 ; Times: 15
+	Date: 2019-02-11 ; Times: 5
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-20 ; Times: 5
+	Date: 2019-02-07 ; Times: 4
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-09 ; Times: 4
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "CM 7581" ; Times: 4
+	Query: "cm 7715" ; Times: 1
+	Query: "Herrerasaurus" ; Times: 2
+	Query: "vntype:specimen class:Mammalia locality:Thompson* isfossil:1" ; Times: 1
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "(childs frick) institutioncode:CM" ; Times: 1
+	Query: "Lasiurus Kentucky" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 2
+	Query: "coelophysis" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "erethizon &#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:CM" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 6
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "glaucomys sabrinus &#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon year &gt;= 1899 year &lt;= 1910" ; Times: 1
+	Query: "family:Felidae institutioncode:CM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "plantae" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "stateprovince:&#34;virginia&#34; Opheodrys vernalis" ; Times: 1
+	Query: "CM-4601" ; Times: 1
+	Query: "sylvilagus transitionalis virginia" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "lepus sylvaticus" ; Times: 3
+	Query: "erethizon &#34;maryland&#34;" ; Times: 5
+	Query: "erethizon west virginia" ; Times: 1
+	Query: "hystrix pennsylvania" ; Times: 2
+	Query: "cryptobranchus west virginia" ; Times: 1
+	Query: "childs frick" ; Times: 1
+	Query: "Sorex dispar" ; Times: 1
+	Query: "specificepithet:nana genus:Brachyphylla" ; Times: 1
+	Query: "spilogale putorius west virginia" ; Times: 1
+	Query: "Yoder Formation" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1227 download events in this period)
+Total number of records downloaded: 4731
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-14 ; Times: 6
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:CM" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "neotoma stephensi" ; Times: 4
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "&#34;Apodemus mystacinus&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "genus:Camelops isfossil:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "Vulpes velox" ; Times: 1
+	Query: "vntype:specimen genus:Odocoileus basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+
+
+End of report.
