@@ -1,0 +1,121 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 811
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 50
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 9
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 9
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-18 ; Times: 6
+	Date: 2019-03-06 ; Times: 9
+	Date: 2019-03-01 ; Times: 7
+	Date: 2019-03-02 ; Times: 2
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-21 ; Times: 7
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-15 ; Times: 3
+	Date: 2019-03-12 ; Times: 6
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-10 ; Times: 2
+	Date: 2019-03-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Dinornithiformes country:&#34;new zealand&#34; AND (skeleton)" ; Times: 1
+	Query: "genus:Cryptotis family:Soricidae institutioncode:CM" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Maryland&#34; isfossil:1" ; Times: 1
+	Query: "CM 6855" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;pennsylvania&#34; year &gt;= 1975" ; Times: 1
+	Query: "genus:glaucomys sabrinus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "poebrotherium" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Colorado" ; Times: 4
+	Query: "herrerasaurus" ; Times: 1
+	Query: "diadectes" ; Times: 2
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "eusthenopteron" ; Times: 2
+	Query: "sarg" ; Times: 1
+	Query: "002925" ; Times: 1
+	Query: "Thamnophis brachystoma" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 3
+	Query: "stateprovince:&#34;Kentucky&#34; institutioncode:CM" ; Times: 6
+	Query: "Crenidens" ; Times: 1
+	Query: "quetzalcoatlus" ; Times: 1
+	Query: "genus:spilogale stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "mammal jaw bones" ; Times: 1
+	Query: "order:Lepidosireniformes hastissue:1" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Virginia" ; Times: 4
+	Query: "genus:neotoma stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "CM 3119" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "CM 5906" ; Times: 2
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "order:Dinornithiformes" ; Times: 1
+	Query: "specificepithet:americana order:carnivora stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "genus:martes stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:nana genus:Brachyphylla" ; Times: 1
+	Query: "country:&#34;brazil&#34; recordedby:branner" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1281 download events in this period)
+Total number of records downloaded: 151
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-08 ; Times: 5
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "(charadricola OR robertsorum OR thorectes OR hazelae OR sabrina)" ; Times: 1
+	Query: "Guilday" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "geranoaetus" ; Times: 2
+
+
+End of report.
