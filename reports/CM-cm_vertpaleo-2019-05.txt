@@ -1,0 +1,96 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 606
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 34
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 18
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Panthera onca Peru" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "felid" ; Times: 1
+	Query: "(ichthyosaur) institutioncode:CM" ; Times: 2
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "fieldnumber:10432" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "(ichthyosauria) institutioncode:CM" ; Times: 10
+	Query: "Dunkleosteus" ; Times: 2
+	Query: "Panthera onca" ; Times: 2
+	Query: "dicerorhinus" ; Times: 1
+	Query: "diadectid" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "supernumerary" ; Times: 1
+	Query: "(mosasaur) institutioncode:CM" ; Times: 3
+	Query: "Perot" ; Times: 1
+	Query: "(tyrannosaurus) institutioncode:CM" ; Times: 1
+	Query: "plethodontid" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "specificepithet:hoyi genus:sorex institutioncode:CM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "045020" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 940 download events in this period)
+Total number of records downloaded: 179
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Phyllodactylidae" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+
+
+End of report.
