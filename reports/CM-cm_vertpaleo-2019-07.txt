@@ -1,0 +1,174 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 1665
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 100
+	Country: Unknown ; Times: 2
+	Country: Madagascar ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Belgium ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 16
+	Date: 2019-07-08 ; Times: 49
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-16 ; Times: 3
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-12 ; Times: 10
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-23 ; Times: 4
+	Date: 2019-07-31 ; Times: 7
+	Date: 2019-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Wyonycteris" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "genus:Tetonius specificepithet:sp" ; Times: 1
+	Query: "genus:Machairodus" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:natronensis" ; Times: 1
+	Query: "genus:Tetonius specificepithet:matthewi" ; Times: 1
+	Query: "genus:Allognathosuchus" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 2
+	Query: "genus:Pronothodectes specificepithet:matthewi" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;west virginia&#34;" ; Times: 2
+	Query: "genus:Absarokius specificepithet:abbotti" ; Times: 1
+	Query: "genus:Homo specificepithet:erectus" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "class:amphibia locality:Monument Valley stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Argillochelys" ; Times: 1
+	Query: "genus:Erinaceomorpha" ; Times: 1
+	Query: "class:amphibia locality:Monument Valley" ; Times: 1
+	Query: "genus:Karanisia specificepithet:arenula" ; Times: 1
+	Query: "genus:Limnoecus" ; Times: 1
+	Query: "ansp chiroptera" ; Times: 5
+	Query: "genus:Tetonius specificepithet:sp." ; Times: 1
+	Query: "genus:Megaladapis specificepithet:madagascariensis" ; Times: 1
+	Query: "genus:Carpolestes specificepithet:dubius" ; Times: 1
+	Query: "genus:Adocus" ; Times: 1
+	Query: "genus:Cantius specificepithet:torresi" ; Times: 1
+	Query: "genus:Steinius specificepithet:vespertinus" ; Times: 1
+	Query: "3025 institutioncode:CM" ; Times: 1
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Gomphotherium" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "genus:Miospermophilus" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Cantius specificepithet:frugivorus" ; Times: 1
+	Query: "horridus and nebraska" ; Times: 1
+	Query: "Meleagris gallopavo year &gt;= 1980 year &lt;= 1982" ; Times: 2
+	Query: "genus:Tetonius specificepithet:homunculus" ; Times: 1
+	Query: "class:amphibia locality:La Sal stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Rapamys" ; Times: 1
+	Query: "genus:Pondaungia" ; Times: 1
+	Query: "genus:Dicynodon" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "genus:Carpolestes specificepithet:nigridens" ; Times: 1
+	Query: "class:amphibia locality:LA Sal stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Subhyracodon" ; Times: 1
+	Query: "genus:Plagioctenoides specificepithet:microlestes" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Alagomys specificepithet:russelli" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "genus:Rhamphorhynchus" ; Times: 1
+	Query: "genus:Absarokius specificepithet:noctivagus" ; Times: 1
+	Query: "genus:Adapis specificepithet:parisiensis" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:savagei" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "genus:Trogolemur" ; Times: 1
+	Query: "Osteostraci" ; Times: 2
+	Query: "gbifdatasetid:6720aee6-2aad-446d-bb97-ba009d1b5666" ; Times: 1
+	Query: "genus:virginia stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "CM 5906" ; Times: 2
+	Query: "genus:Colpocherus" ; Times: 1
+	Query: "genus:Tyrannosaurus isfossil:1" ; Times: 2
+	Query: "Gopherus institutioncode:CM" ; Times: 1
+	Query: "genus:Daimonelix" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 1
+	Query: "genus:Proconsul specificepithet:africanus" ; Times: 1
+	Query: "Pteraspis" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "genus:Plastomenus" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "specificepithet:chrysoscelis genus:Hyla stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Kellog" ; Times: 1
+	Query: "genus:Pteromys" ; Times: 1
+	Query: "genus:Shoshonius specificepithet:cooperi" ; Times: 1
+	Query: "genus:Biretia" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "genus:Equus specificepithet:complicatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 985 download events in this period)
+Total number of records downloaded: 1592
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 10
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 3
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Crotalus horridus and pennsylvania" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "Porzana carolina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Colorado&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Meleagris gallopavo year &gt;= 1980 year &lt;= 1982" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1990 year &lt;= 1995" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1991 year &lt;= 1995" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 2
+	Query: "Gopherus institutioncode:CM" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1986 year &lt;= 1990" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+
+
+End of report.
