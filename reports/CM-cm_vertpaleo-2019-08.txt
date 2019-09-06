@@ -1,0 +1,155 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 1294
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 85
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 6
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-08 ; Times: 18
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-04 ; Times: 5
+	Date: 2019-08-05 ; Times: 5
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-23 ; Times: 4
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-16 ; Times: 4
+	Date: 2019-08-15 ; Times: 7
+	Date: 2019-08-14 ; Times: 3
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "specificepithet:browni class:mammalia (browni)" ; Times: 3
+	Query: "vntype:specimen genus:Tympanuchus family:Phasianidae order:Galliformes isfossil:1" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 5
+	Query: "Tracheophyta" ; Times: 1
+	Query: "vntype:specimen genus:homo preparations:skeleton AND (NOT juvenile)" ; Times: 1
+	Query: "(seymouria)" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Tennessee&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "javelina" ; Times: 2
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "genus:Heterodon stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "genus:Hyopsodus specificepithet:sp." ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "genus:Palenochtha specificepithet:minor" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Virginia&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:blythi genus:myotis" ; Times: 1
+	Query: "class:aves recordedby:dawson year &gt;= 1912" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;West Virginia&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Maryland&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Ectopistes migratorius vntype:specimen year &gt;= 1910" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon institutioncode:CM" ; Times: 1
+	Query: "Apatosaurus" ; Times: 1
+	Query: "seymouria" ; Times: 4
+	Query: "egg nebraska" ; Times: 1
+	Query: "Latonia" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "Bootherium" ; Times: 3
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Nothocyon specificepithet:lemur" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "genus:Jemezius specificepithet:szalayi" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "ambystoma tigrinum Virginia" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "Javelina" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 6
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1034 download events in this period)
+Total number of records downloaded: 454
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 5
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 6
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Erethizon stateprovince:&#34;Maryland&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Tennessee&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;West Virginia&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Virginia&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:blythi genus:myotis" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "ticholeptus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "seymouria" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "merychyus" ; Times: 1
+
+
+End of report.
