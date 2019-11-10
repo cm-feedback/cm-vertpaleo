@@ -1,0 +1,141 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 1704
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 84
+	Country: Japan ; Times: 1
+	Country: Italy ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-11 ; Times: 3
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 6
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 10
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 6
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 27
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus pennsylvanicus 1976" ; Times: 1
+	Query: "captorhinus" ; Times: 1
+	Query: "equid" ; Times: 1
+	Query: "Crocodylomorph" ; Times: 1
+	Query: "genus:Boavus country:&#34;United States&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus 1984" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "order:Carnivora locality:Mexico" ; Times: 1
+	Query: "Microtus pennsylvanicus 1986" ; Times: 1
+	Query: "Microtus pennsylvanicus 1980" ; Times: 1
+	Query: "Bootherium" ; Times: 1
+	Query: "crotaphytus wyoming" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 5
+	Query: "Hippopotamus (Madagascar)" ; Times: 2
+	Query: "genus:eumeces stateprovince:&#34;Pennsylvania&#34; year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Pennsylvania&#34; year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "megalonyx jeffersonii" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "genus:Palaeophis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:chrotorrhinus stateprovince:&#34;pennsylvania&#34;" ; Times: 4
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "Peromyscus maniculatus 1972" ; Times: 6
+	Query: "Microtus pennsylvanicus 1972" ; Times: 3
+	Query: "diplodocus" ; Times: 1
+	Query: "Microtus pennsylvanicus 1974" ; Times: 1
+	Query: "Microtus pennsylvanicus 1977" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1978" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Peromyscus maniculatus 1977" ; Times: 1
+	Query: "nivalis mustela" ; Times: 1
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "Crocodylus madagascar" ; Times: 4
+	Query: "cryptobranchus Tennessee" ; Times: 1
+	Query: "Microtus pennsylvanicus 1978" ; Times: 1
+	Query: "Microtus pennsylvanicus 1996" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus 1979" ; Times: 2
+	Query: "archaeopteryx" ; Times: 1
+	Query: "specificepithet:lupus genus:canis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Triceratops isfossil:1" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "canis rufus" ; Times: 2
+	Query: "bootherium" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1073 download events in this period)
+Total number of records downloaded: 534
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:cetacea class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "coluber constrictor virginia" ; Times: 1
+	Query: "Crocodylus madagascar" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 2
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "Opheodrys" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "storeria dekayi virginia" ; Times: 1
+
+
+End of report.
