@@ -1,0 +1,78 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 185
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aestivus stateprovince:&#34;pennsylvania&#34;" ; Times: 7
+	Query: "specificepithet:pulcherrimus institutioncode:CM" ; Times: 2
+	Query: "AMNH 386" ; Times: 1
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "014872" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "dicerorhinus" ; Times: 1
+	Query: "020195" ; Times: 1
+	Query: "genus:Allosaurus" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale institutioncode:CM" ; Times: 1
+	Query: "specificepithet:gaspensis genus:Sorex" ; Times: 1
+	Query: "family:Rhinophrynidae institutioncode:CM" ; Times: 1
+	Query: "SP 3030" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 596 download events in this period)
+Total number of records downloaded: 587
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Paraguay ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:gaspensis genus:Sorex" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:dispar genus:Sorex" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+
+
+End of report.
