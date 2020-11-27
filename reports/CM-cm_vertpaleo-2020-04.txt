@@ -1,0 +1,155 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 659
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 44
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-07 ; Times: 16
+	Date: 2020-04-23 ; Times: 10
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 10
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-06 ; Times: 3
+	Date: 2020-04-21 ; Times: 24
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-02 ; Times: 4
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coelophysis bauri" ; Times: 2
+	Query: "martes americana stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 4
+	Query: "stateprovince:&#34;Pennsylvania&#34; (martes )" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "lutra lutra" ; Times: 1
+	Query: "Palaeogale" ; Times: 1
+	Query: "Perot Museum" ; Times: 1
+	Query: "albertosaurus" ; Times: 1
+	Query: "heterodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "institutioncode:CM basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Panthera Onca Skull" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:rixosa genus:Mustela class:Mammalia" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "cryptobranchus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "virginia cemophora" ; Times: 1
+	Query: "Homo sapiens" ; Times: 12
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "genus:Cryptobranchus stateprovince:&#34;Tennessee&#34;" ; Times: 7
+	Query: "Panthera onca" ; Times: 4
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Panthera tigris" ; Times: 6
+	Query: "vntype:specimen genus:Dasypus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "crotalus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:alleganiensis genus:Cryptobranchus institutioncode:CM" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "specificepithet:anthracinus genus:Eumeces stateprovince:&#34;Pennsylvania&#34; institutioncode:CM" ; Times: 2
+	Query: "genus:Cemophora stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "class:Gastropoda institutioncode:CM basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "camelid" ; Times: 1
+	Query: "heterodon stateprovince:&#34;pennsylvania&#34;" ; Times: 6
+	Query: "Lutra lutra" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1171 download events in this period)
+Total number of records downloaded: 5854
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Canada ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-07 ; Times: 3
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-23 ; Times: 6
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-28 ; Times: 15
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison antiquus" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Tremarctos" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "vntype:specimen family:Thryonomyidae" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen family:Myoxidae" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "vntype:specimen family:Cynocephalidae" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:alleganiensis genus:Cryptobranchus institutioncode:CM" ; Times: 2
+	Query: "vntype:specimen genus:Dasypus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 3
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "class:Gastropoda" ; Times: 1
+	Query: "vntype:specimen family:Gliridae" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
