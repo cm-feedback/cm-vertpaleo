@@ -1,0 +1,123 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 396
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 19
+	Country: Austria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-30 ; Times: 4
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-24 ; Times: 5
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-18 ; Times: 6
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-03 ; Times: 6
+	Date: 2020-03-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "CM 7580" ; Times: 1
+	Query: "country:&#34;united states&#34; year &gt;= 1910 year &lt;= 1915 institutioncode:CM isfossil:1" ; Times: 1
+	Query: "class:reptilia country:&#34;united states&#34; year &gt;= 1910 year &lt;= 1915 institutioncode:CM isfossil:1" ; Times: 1
+	Query: "latonia" ; Times: 1
+	Query: "Honrovits tsuwape" ; Times: 1
+	Query: "Rhinolophus delphinensis" ; Times: 1
+	Query: "(cryptobranchus alleganiensis) isfossil:1" ; Times: 1
+	Query: "(042489)" ; Times: 2
+	Query: "Myotis exilis" ; Times: 2
+	Query: "82768" ; Times: 1
+	Query: "genus:Ophiacodon" ; Times: 1
+	Query: "Chondrichthyes Solnhofen" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "(041198)" ; Times: 1
+	Query: "vntype:specimen (cryptobranchus alleganiensis) isfossil:1" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "(plethodon) hastissue:1 isfossil:1" ; Times: 1
+	Query: "Archaeopteryx lithographica isfossil:1" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "genus:latonia" ; Times: 1
+	Query: "(plethodon) isfossil:1" ; Times: 1
+	Query: "Ageina tobieni" ; Times: 1
+	Query: "Myotis keenii" ; Times: 2
+	Query: "vntype:specimen (plethodon) isfossil:1" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "Cryptobranchus Tennessee" ; Times: 3
+	Query: "specificepithet:virginianus genus:Didelphis family:Didelphidae" ; Times: 1
+	Query: "Archaeopteryx lithographica" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 853 download events in this period)
+Total number of records downloaded: 880
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Spain ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 3
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudotriton" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "(cryptobranchus alleganiensis) isfossil:1" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "vntype:specimen (cryptobranchus alleganiensis) isfossil:1" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "(plethodon) isfossil:1" ; Times: 1
+	Query: "class:Aves continent:Africa institutioncode:CM" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+
+
+End of report.
