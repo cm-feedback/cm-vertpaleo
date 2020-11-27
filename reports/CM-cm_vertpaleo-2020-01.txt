@@ -1,0 +1,145 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 773
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 71
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-14 ; Times: 5
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-17 ; Times: 4
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-21 ; Times: 6
+	Date: 2020-01-31 ; Times: 17
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-30 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cryptobranchus stateprovince:&#34;west Virginia&#34;" ; Times: 1
+	Query: "family:phyllostomidae class:mammalia institutioncode:CM" ; Times: 2
+	Query: "specificepithet:chrysoscelis genus:Hyla institutioncode:CM" ; Times: 1
+	Query: "family:Tapiridae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 1
+	Query: "specificepithet:haysii genus:Tapirus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:femoralis genus:Hyla institutioncode:CM" ; Times: 1
+	Query: "dermoptera AND (north america)" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:CM" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "order:Proboscidea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "genus:Tapirus stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "specificepithet:pipiens genus:Rana institutioncode:CM" ; Times: 1
+	Query: "specificepithet:fowleri genus:Bufo institutioncode:CM" ; Times: 1
+	Query: "Dermoptera AND (NOT birds)" ; Times: 1
+	Query: "012996" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "family:Bathyergidae institutioncode:CM" ; Times: 1
+	Query: "family:Equidae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 4
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 27
+	Query: "specificepithet:triseriata genus:Pseudacris institutioncode:CM" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:CM" ; Times: 4
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "class:mammalia institutioncode:CM" ; Times: 1
+	Query: "Trirachodon" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1584 download events in this period)
+Total number of records downloaded: 3619
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 4
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-31 ; Times: 10
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Cryptobranchus institutioncode:CM" ; Times: 1
+	Query: "genus:Morganucodon" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "(dermoptera)" ; Times: 2
+	Query: "family:Mephitidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "genus:Microtus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "dermoptera" ; Times: 16
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
