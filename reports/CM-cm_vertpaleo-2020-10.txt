@@ -1,0 +1,147 @@
+Report for Institution Code CM, Resource cm_vertpaleo
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 398
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Bangladesh ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-13 ; Times: 12
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Homo sapiens" ; Times: 6
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "044816" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "megalonyx jeffersonii" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "plesiopleurodon" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Beijing&#34; country:&#34;China&#34;" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "country:&#34;Equatorial Guinea&#34; institutioncode:CM" ; Times: 1
+	Query: "cervid" ; Times: 1
+	Query: "Prometheomys" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:CM" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Panthera tigris" ; Times: 2
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:CM" ; Times: 1
+	Query: "CM 1498" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:CM" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1521 download events in this period)
+Total number of records downloaded: 60359
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Australia ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-14 ; Times: 17
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-31 ; Times: 8
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1925" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "family:elephantidae" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "canis fossil" ; Times: 1
+	Query: "order:SQUAMATA stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "class:Mammalia country:&#34;United States&#34; continent:America year &gt;= 1800 year &lt;= 2015 hastypestatus:1" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "hyla femoralis" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:CM" ; Times: 1
+	Query: "genus:sceloporus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "Gulo gulo" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "family:Struthionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "family:Heteromyidae isfossil:1" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
